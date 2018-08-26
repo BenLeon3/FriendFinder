@@ -21,7 +21,7 @@ var friendArray = [
     },
     {
     "name":"Juan Hierbas",
-    "photo":"https://randomuser.me/api/portraits/lego/6.jpg",
+    "photo":"https://randomuser.me/api/portraits/lego/5.jpg",
     "scores":[
         5,
         3,
@@ -37,7 +37,7 @@ var friendArray = [
     },
     {
     "name":"El Bandito",
-    "photo":"https://randomuser.me/api/portraits/lego/6.jpg",
+    "photo":"https://randomuser.me/api/portraits/lego/4.jpg",
     "scores":[
         1,
         1,
@@ -53,7 +53,7 @@ var friendArray = [
     },
     {
     "name":"Juan Chido",
-    "photo":"https://randomuser.me/api/portraits/lego/6.jpg",
+    "photo":"https://randomuser.me/api/portraits/lego/3.jpg",
     "scores":[
         1,
         1,
@@ -69,7 +69,7 @@ var friendArray = [
     },
     {
     "name":"Pepito",
-    "photo":"https://randomuser.me/api/portraits/lego/6.jpg",
+    "photo":"https://randomuser.me/api/portraits/lego/2.jpg",
     "scores":[
         5,
         5,
@@ -85,7 +85,7 @@ var friendArray = [
     },
     {
     "name":"Cepillin",
-    "photo":"https://randomuser.me/api/portraits/lego/6.jpg",
+    "photo":"https://randomuser.me/api/portraits/lego/1.jpg",
     "scores":[
         1,
         1,
